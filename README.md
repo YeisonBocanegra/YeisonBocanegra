@@ -30,5 +30,5 @@
 ### 📫 Contacto
 
 - **GitHub:** [@YeisonBocanegra](https://github.com/YeisonBocanegra)
-- **LinkedIn:** [Yeison Bocanegra](https://www.linkedin.com/in/yeison-yesid-bocanegra-quimbayo-64a988376/)
+- **LinkedIn:** [Yeison Bocanegra](https://www.linkedin.com/in/yeison-bocanegra/)
 - **Email:** workjbq@gmail.com
