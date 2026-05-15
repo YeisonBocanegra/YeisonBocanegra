@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola, soy Yeison Bocanegra 👋
 
-<!--
-**YeisonBocanegra/YeisonBocanegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero de Sistemas** con Especialización Tecnológica en Gestión y Seguridad de Bases de Datos. Desarrollo software que resuelve problemas reales de negocio — desde sistemas de gestión hotelera hasta asistentes de IA con búsqueda semántica y pagos integrados. Varios de mis proyectos están operativos en producción y generando valor comercial activo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Principal
+
+**Frontend:** React · Next.js · Astro · TypeScript · HTML/CSS  
+**Backend:** Node.js · PHP (CodeIgniter) · API REST  
+**IA:** Gemini · RAG · Embeddings · pgvector · Vercel AI SDK  
+**Bases de datos:** PostgreSQL · Supabase · MySQL  
+**Pagos:** Wompi (Colombia)  
+**Cloud:** Vercel · Google Drive API  
+**Otros:** Git · Google Ads · WhatsApp Business API
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Stack | Descripción | Link |
+|:--|:--|:--|:--:|
+| **[AEC AI Assistant](https://github.com/YeisonBocanegra/aec-ai-assistant)** | Next.js · Gemini · RAG · Wompi | Asistente conversacional con IA para venta automatizada de recursos AEC. Búsqueda semántica, pagos integrados y descarga controlada vía Google Drive API. | [🌐 asistenteaec.com](https://asistenteaec.com/) |
+| **[AEC Catalog Platform](https://github.com/YeisonBocanegra/aec-catalog-platform)** | Astro SSR · Supabase · Vercel | Catálogo digital dinámico para recursos de arquitectura. Cada producto se genera automáticamente desde base de datos con landing page persuasiva y CTA a WhatsApp. | [🌐 ingenieriaextremamedia.com](https://www.ingenieriaextremamedia.com/) |
+| **[SIPM](https://github.com/YeisonBocanegra/SIPM)** | PHP · CodeIgniter · MySQL | Sistema de información hotelera por turnos: reservas, check-in/out, caja, reportes y control de minuta. Desarrollado e implementado en producción para un hotel real. | — |
+| **[GesproAgro](https://github.com/YeisonBocanegra/GesproAgro)** | PHP · CodeIgniter · MySQL | Sistema de gestión agrícola para trazabilidad de cultivos, inventario de insumos y reportes de producción. | — |
+
+---
+
+### 📫 Contacto
+
+- **GitHub:** [@YeisonBocanegra](https://github.com/YeisonBocanegra)
+- **LinkedIn:** [Yeison Bocanegra](https://www.linkedin.com/in/yeison-yesid-bocanegra-quimbayo-64a988376/)
+- **Email:** workjbq@gmail.com
